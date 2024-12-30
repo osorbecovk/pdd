@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+ }
+a {
+    text-decoration: none;
+ }
+ .top {
+    margin-top: 50px;
+    width: 120px;
+    height: 329px;
+    background-color: black;
+    margin-left: 720px;
+    position: relative; 
+}
+ .right {
+    width: 1200px;
+    height: 120px;
+
+    margin-left: 170px;
+    background-color: black;
+ }
+ .left {
+    width: 120px;
+    height: 200px; 
+    margin-left: 720px;
+    background-color: black;
+ }
+ .go {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 200px;
+    right: 500px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    border: none;
+ }
+ .img1 {
+    width: 60px;
+    height: 40px;
+    transform: rotate(270deg);
+    position: absolute;
+    top: 20px;
+    left: 5px;
+
+ }
+.img2 {
+        width: 60px;
+        height: 40px;
+        transform: rotate(270deg);
+        position: absolute;
+        top: 20px;
+        right: 5px;
+    }
+.img3 {
+        width: 60px;
+        height: 40px;
+        transform: rotate(270deg);
+        position: absolute;
+        top: 90px;
+        right: 5px;
+}
+.img4 {
+    width: 60px;
+    height: 40px;
+    transform: rotate(270deg);
+    position: absolute;
+    top: 90px;
+    left: 5px;
+}
+.img5 {
+    width: 60px;
+    height: 40px;
+    transform: rotate(180deg);
+    position: absolute;
+    top: 395px;
+    left: 180px;
+}
+.img6 {
+    width: 60px;
+    height: 40px;
+    transform: rotate(180deg);
+    position: absolute;
+    top: 440px;
+    left: 180px;
+}
+.img7 {
+    width: 60px;
+    height: 40px;
+    transform: rotate(180deg);
+    position: absolute;
+    top: 440px;
+    left: 250px;
+}
+.img8 {
+    width: 60px;
+    height: 40px;
+    transform: rotate(180deg);
+    position: absolute;
+    top: 395px;
+    left: 250px;
+}
